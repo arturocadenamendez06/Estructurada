@@ -1,2 +1,2 @@
 # Estructurada
-Ejercicions
+Ejercicios
