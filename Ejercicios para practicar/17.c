@@ -1,13 +1,8 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
-	/*El equipo de futbol soccer VENADOS requiere llevar un conteo de las acciones que realiza durante un
-	juego, las acciones están catalogadas como sigue: 1)Tiro a gol, 2)Tiro desviado, 3)Falta recibida,
-	4)Falta cometida, 5)Gol anotado, 6)Gol recibido, 7)Amonestado, 8)Expulsado, 0)Fin del juego.
-	Elaborar un programa que permita capturar las acciones que se den en el partido, por cada acción se
-	debe introducir el número de acción correspondiente, al escribir la acción 0, se deben imprimir las
-	estadísticas del juego.*/
-	
+	/*Escribe un programa que calcule el área de una región circular (el área sombreada en el diagrama),*/
+	/*radios de los círculos interno y externo, r1 y r2, respectivamente.*/
 	float r1,r2,a1,a2,a;
 	printf("Escribir el primer radio (circunferencia interna): ");
 	scanf("%f",&r1);
