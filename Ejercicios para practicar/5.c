@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
+	//Hola Mundo
 	/*Escribir un programa que realice la operación módulo mediante operaciones sucesivas de resta. En
 	programación el módulo de un número es el resto de la división de dicho número entre otro número.*/
 	int numero,divisor;
